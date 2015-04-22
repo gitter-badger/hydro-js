@@ -1,5 +1,7 @@
 # Hydro JS
 
+[![Join the chat at https://gitter.im/HydroWeb/hydro-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HydroWeb/hydro-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hydro JS is the perfect way to build robust interactive websites without limiting your creativity. It’s an agnostic, dependency-free library that just works.
 
 ## Purpose & Goals
